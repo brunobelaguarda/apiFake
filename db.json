@@ -1,15 +1,46 @@
 {
-  "unidades": [
-    {"id":2, "cnpj": "20.351.916/0001-01", "name":"loja01"},
-    {"id":3, "cnpj": "22.092.113/0001-05", "name":"loja02"},
-    {"id":4, "cnpj": "25.381.768/0001-83", "name":"loja03"},
-    {"id":6, "cnpj": "29.043.873/0001-63", "name":"loja04"},
-    {"id":7, "cnpj": "33.132.726/0001-37", "name":"loja05"},
-    {"id":8, "cnpj": "06.225.271/0001-21", "name":"loja06"},
-    {"id":9, "cnpj": "36.907.353/0001-17", "name":"loja07"},
-    {"id":10, "cnpj": "39.708.562/0001-20", "name":"loja08"},
-    {"id":11, "cnpj": "42.074.919/0001-70", "name":"loja09"},
-    {"id":12, "cnpj": "40.076.396/0001-75", "name":"loja010"},
-    {"id":13, "cnpj": "45.633.893/0001-40", "name":"loja011"}
-    ]
+	"mesas": [
+		{
+			"nomeMesa": "05",
+			"produtos": [
+				{
+					"name": "coca-cola",
+					"amount": 10.00,
+					"qtde": 2
+				},
+				{
+					"name": "cerveja",
+					"amount": 5.00,
+					"qtde": 1
+				},
+				{
+					"name": "hamburger",
+					"amount": 3.00,
+					"qtde": 1
+				},
+				{
+					"name": "xsalada",
+					"amount": 11.00,
+					"qtde": 1
+				}
+			],
+			"valorTotal": 29.00
+		},
+		{
+			"nomeMesa": "06",
+			"produtos": [
+				{
+					"name": "hamburger",
+					"amount": 13.50,
+					"qtde": 1
+				},
+				{
+					"name": "coca-cola",
+					"amount": 10.00,
+					"qtde": 2
+				}
+			],
+			"valorTotal": 23.50
+		}
+	]
 }

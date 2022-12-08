@@ -11,20 +11,25 @@
 				{
 					"name": "cerveja",
 					"amount": 5.00,
-					"qtde": 1
+					"qtde": 5
 				},
 				{
 					"name": "hamburger",
-					"amount": 3.00,
+					"amount": 10.90,
 					"qtde": 2
 				},
 				{
-					"name": "xsalada",
-					"amount": 11.00,
+					"name": "x-salada",
+					"amount": 11.50,
+					"qtde": 1
+				},
+				{
+					"name": "x-bacon",
+					"amount": 16.50,
 					"qtde": 1
 				}
 			],
-			"valorTotal": 39.00
+			"valorTotal": 94.80
 		},
 		{
 			"nomeMesa": "06",

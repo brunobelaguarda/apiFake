@@ -10,12 +10,12 @@
 				},
 				{
 					"name": "cerveja",
-					"amount": 5.00,
+					"amount": 5.16,
 					"qtde": 5
 				},
 				{
 					"name": "hamburger",
-					"amount": 10.90,
+					"amount": 10.95,
 					"qtde": 2
 				},
 				{
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "x-bacon",
-					"amount": 16.50,
+					"amount": 20.90,
 					"qtde": 1
 				}
 			],

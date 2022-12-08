@@ -1,7 +1,7 @@
 {
 	"mesas": [
 		{
-			"nomeMesa": "05",
+			"nomeMesa": "00",
 			"produtos": [
 				{
 					"name": "coca-cola",
@@ -32,7 +32,7 @@
 			"valorTotal": 94.80
 		},
 		{
-			"nomeMesa": "06",
+			"nomeMesa": "01",
 			"produtos": [
 				{
 					"name": "hamburger",

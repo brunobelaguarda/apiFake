@@ -46,6 +46,74 @@
 				}
 			],
 			"valorTotal": 23.50
+		},
+		{
+			"nomeMesa": "02",
+			"produtos": [
+				{
+					"name": "hamburger",
+					"amount": 13.50,
+					"qtde": 1
+				},
+				{
+					"name": "coca-cola",
+					"amount": 10.00,
+					"qtde": 1
+				},
+				{
+					"name": "torrada",
+					"amount": 3.00,
+					"qtde": 0.5
+				}
+			],
+			"valorTotal": 26.50
+		},
+		{
+			"nomeMesa": "03",
+			"produtos": [
+				{
+					"name": "hamburger02",
+					"amount": 19.66,
+					"qtde": 1
+				},
+				{
+					"name": "coca-cola600",
+					"amount": 5.99,
+					"qtde": 2
+				},
+				{
+					"name": "torrada",
+					"amount": 3.00,
+					"qtde": 0.5
+				}
+			],
+			"valorTotal": 34.64
+		},
+		{
+			"nomeMesa": "04",
+			"produtos": [
+				{
+					"name": "hamburger02",
+					"amount": 19.66,
+					"qtde": 1
+				},
+				{
+					"name": "coca-cola600",
+					"amount": 5.99,
+					"qtde": 2
+				},
+				{
+					"name": "torrada",
+					"amount": 3.00,
+					"qtde": 0.5
+				},
+				{
+					"name": "bife",
+					"amount": 28.77,
+					"qtde": 2
+				}
+			],
+			"valorTotal": 92.18
 		}
 	]
 }

@@ -114,6 +114,21 @@
 				}
 			],
 			"valorTotal": 92.18
+		}{
+			"nomeMesa": "05",
+			"produtos": [
+				{
+					"name": "meia-torrada",
+					"amount": 10.00,
+					"qtde": 0.5
+				},
+				{
+					"name": "coca-cola-lata",
+					"amount": 3.99,
+					"qtde": 1
+				}
+			],
+			"valorTotal": 15.99
 		}
 	]
 }
